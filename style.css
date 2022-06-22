@@ -1,0 +1,76 @@
+.main_ment_1{
+    text-align: center;
+}
+
+.main_ment_2{
+    text-align: center;
+    font-family: 'Gowun Dodum'!important;
+}
+
+.main_ment_3{
+    text-align: center;
+    font-family: 'Gowun Dodum'!important;
+}
+
+.j_first{
+    font-family: 'Gugi'!important;
+    color: blanchedalmond;
+    border: 1px solid;
+    padding: 2px 2px;
+    background-color: rgb(217, 57, 57);
+    width: 340px;
+    height: 71px;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 150px;
+}
+
+.j_second{
+    font-family: 'Gugi'!important;
+    color: blanchedalmond;
+    padding: 2px 2px;
+    background-color: rgb(25, 61, 194);
+    width: 340px;
+    height: 71px; 
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 300px;
+}
+
+.j_third{
+    font-family: 'Gugi'!important;
+    color: blanchedalmond;
+    padding: 2px 2px;
+    background-color: rgb(4, 0, 4);
+    width: 340px;
+    height: 71px; 
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 300px;
+}
+
+.j_line{
+    padding: 1px;
+    width: 600px;
+    height: 10px;
+    border-radius: 30px;
+    background-color: aqua;
+    margin-bottom: 150px;
+}
+
+.se_story{
+    text-align: center;
+    font-family: 'Gowun Dodum'!important;
+}
+
+.young_story{
+    text-align: center;
+    font-family: 'Gowun Dodum'!important;
+}
+
+.jung_story{
+    text-align: center;
+    font-family: 'Gowun Dodum'!important;
+}
+
+
